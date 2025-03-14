@@ -48,7 +48,6 @@ Log in with the following credentials to explore the app:
 **Ongoing Developments:**
 
 - **Advanced Learning Analytics**: Get deeper insights into your learning habits.
-- **AR Learning Experiences**: Engage with courses through Augmented Reality.
 - **Multi-Language Support**: Access the app in several additional languages.
 
 ## :earth_americas: App Navigation
